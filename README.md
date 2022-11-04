@@ -1,5 +1,13 @@
 ### Hi there 👋
+
+I'm Daffa from Indonesia
 [![dffrndik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dffrndik)](https://github.com/dffrndik/github-readme-stats)
+
+**Currently Learning**
+- dotnet
+- Android Studio
+- Laravel
+- Competitive Programming
 <!--
 **dffrndik/dffrndik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
