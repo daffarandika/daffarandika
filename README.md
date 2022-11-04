@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Daffa from Indonesia
-[![dffrndik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dffrndik)](https://github.com/dffrndik/github-readme-stats)
+<!-- [![dffrndik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dffrndik)](https://github.com/dffrndik/github-readme-stats) -->
 
 **Currently Learning**
 - dotnet
