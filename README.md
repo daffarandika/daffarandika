@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daffa from Indonesia
+<!-- I'm Daffa from Indonesia
 <!-- [![dffrndik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dffrndik)](https://github.com/dffrndik/github-readme-stats) -->
 
 **Currently Learning**
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
