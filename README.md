@@ -1,2 +1,2 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dffrndik)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dffrndik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
