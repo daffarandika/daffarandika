@@ -3,7 +3,7 @@
 <ul>
     <li>💻 Freelance software engineer</li>
     <li>🔭 A math and computer science geek</li>
-    <li>🌱 Obsessed with anything Competitive Programming or CTF related </li>
+    <li>🌱 Interested in anything Competitive Programming / CTF related </li>
 </ul>
   
   
