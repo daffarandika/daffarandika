@@ -2,8 +2,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 <ul>
     <li>💻 Freelance software engineer</li>
-    <li>🔭 A math and computer science geek</li>
-    <li>🌱 Interested in anything Competitive Programming / CTF related </li>
+    <li>🔭 A jack of all trades trying to find a skill to master</li>
 </ul>
   
   
