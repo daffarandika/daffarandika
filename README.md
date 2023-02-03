@@ -23,6 +23,6 @@
     <a href="https://github.com/dffrndik/RestaurantEsemka"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=RestaurantEsemka&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/dffrndik/AccountViewer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=AccountViewer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/dffrndik/GrandHotelAPI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dffrndik&repo=GrandHotelAPI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/dffrndik/GrandHotel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=GrandHotel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/dffrndik/Laundry"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=Laundry&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
   </p>
 </details>
