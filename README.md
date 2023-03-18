@@ -26,3 +26,5 @@
     <a href="https://github.com/dffrndik/Laundry"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=Laundry&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
   </p>
 </details>
+
+![](https://komarev.com/ghpvc/?username=dffrndik&style=for-the-badge)
