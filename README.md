@@ -14,7 +14,7 @@
 <details open>
     <summary><h2 align="left">💡 Most Used Languages</h2></summary>
     
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dffrndik&layout=compact&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dffrndik&layout=compact&langs_count=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 </details>
 <details open>
     <summary><h2 align="left">🍃 Top Projects</h2></summary>
