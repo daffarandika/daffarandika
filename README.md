@@ -20,9 +20,10 @@
     <summary><h2 align="left">🍃 Top Projects</h2></summary>
     
   <p align="left">
+      <a href="https://github.com/dffrndik/github-users"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=github-users&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
     <a href="https://github.com/dffrndik/RestaurantEsemka"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=RestaurantEsemka&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/dffrndik/Restaurant_API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=Restaurant_API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 <!--     <a href="https://github.com/dffrndik/GrandHotelAPI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dffrndik&repo=GrandHotelAPI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a> -->
-    <a href="https://github.com/dffrndik/github-users"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=github-users&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    
   </p>
 </details>
