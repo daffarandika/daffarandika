@@ -3,7 +3,7 @@
 <details open>
     <summary><h2> 👨🏻‍💻 About Me </h2></summary>
     <ul>
-        <li>💻 Freelance software engineer</li>
+        <li>💻 Mobile developer at PT. Bumi Teknik Semesta</li>
         <li>🔭 A jack of all trades trying to find a skill to master</li>
     </ul>
 </details>
