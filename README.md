@@ -15,7 +15,7 @@
 <details open>
     <summary><h2 align="left">💡 Most Used Languages</h2></summary>
     
-[![Top Langs](https://github-readme-stats-64s3jus2g-dffrndik.vercel.app//api/top-langs/?username=dffrndik&layout=compact&langs_count=5&count_private=false)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-64s3jus2g-dffrndik.vercel.app//api/top-langs/?username=dffrndik&layout=compact&langs_count=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 </details>
 <details open>
     <summary><h2 align="left">🍃 Top Projects</h2></summary>
