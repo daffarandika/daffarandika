@@ -3,7 +3,7 @@
 <details open>
     <summary><h2> 👨🏻‍💻 About Me </h2></summary>
     <ul>
-        <li>💻 Mobile developer at PT. Bumi Teknik Semesta</li>
+        <li>💻 Electrical Engeering Student at Universitas Jendral Soedirman</li>
         <li>🔭 A jack of all trades trying to find a skill to master</li>
     </ul>
 </details>
@@ -23,7 +23,7 @@
   <p align="left">
       <a href="https://github.com/dffrndik/github-users"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=github-users&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
     <a href="https://github.com/dffrndik/RestaurantEsemka"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=RestaurantEsemka&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/dffrndik/Restaurant_API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=Restaurant_API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/dffrndik/ionic-note-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dffrndik&repo=ionic-note-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 <!--     <a href="https://github.com/dffrndik/GrandHotelAPI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=dffrndik&repo=GrandHotelAPI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a> -->
     
   </p>
