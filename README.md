@@ -15,5 +15,5 @@
 <details open>
     <summary><h2 align="left">💡 Most Used Languages</h2></summary>
     
-[![Top Langs](https://github-readme-stats-64s3jus2g-dffrndik.vercel.app//api/top-langs/?username=daffarandika&layout=compact&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-64s3jus2g-dffrndik.vercel.app//api/top-langs/?username=daffarandika&layout=compact&langs_count=6&count_private=true&exclude_repo=bash_utils)](https://github.com/anuraghazra/github-readme-stats)  
 </details>
