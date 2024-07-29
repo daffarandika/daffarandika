@@ -4,6 +4,7 @@
     <summary><h2> 👨🏻‍💻 About Me </h2></summary>
     <ul>
         <li>💻 Electrical Engeering Student at Universitas Jendral Soedirman</li>
+        <li>🤖 Programmer at Soedirman Robotics Team</li>
         <li>🔭 A jack of all trades trying to find a skill to master</li>
     </ul>
 </details>
